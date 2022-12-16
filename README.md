@@ -1,2 +1,2 @@
 # How2Tech
-How to do stuff wit Tech
+How to do stuff with Tech
